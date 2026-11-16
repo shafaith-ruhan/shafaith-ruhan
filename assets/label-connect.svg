@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 52" width="1000" height="52" role="img" aria-label="CONNECT">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2563EB" stop-opacity="0"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1000" height="52" rx="12"/></clipPath>
+</defs>
+<rect x=".75" y=".75" width="998.5" height="50.5" rx="12" fill="#0B1020" stroke="#1E3A8A" stroke-width="1.5"/>
+<g clip-path="url(#c)"><rect y="49" width="140" height="3" fill="url(#g)"><animate attributeName="x" values="-140;1000" dur="4.2s" repeatCount="indefinite"/></rect></g>
+<circle cx="26" cy="26" r="11" fill="none" stroke="#2563EB" opacity=".5"><animate attributeName="r" values="8;13;8" dur="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="26" cy="26" r="5" fill="#2563EB"/>
+<text x="52" y="31" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="13" fill="#60A5FA">06</text>
+<text x="86" y="33" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="700" fill="#F1F5F9" letter-spacing="2">CONNECT</text>
+<text x="976" y="31" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="12" fill="#94A3B8">say hello</text>
+</svg>

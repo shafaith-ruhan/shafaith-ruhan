@@ -1,112 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:2563EB&height=210&section=header&text=SHAFAITH%20RUHAN&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="./assets/header.svg" width="100%" alt="Shafaith Ruhan — CSE student, developer, automation enthusiast" />
 
-### CSE Student · Developer · Automation Enthusiast
+<br/>
 
-**Exploring technology. Building practical solutions. Automating the repetitive.**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2800&pause=900&color=93C5FD&center=true&vCenter=true&width=560&lines=Learning+by+building;Turning+ideas+into+working+projects;Exploring+automation+and+AI+workflows;Always+curious+about+what%27s+next" alt="Typing introduction" />
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Shafaith Ruhan**, a Computer Science & Engineering student from Bangladesh. I enjoy exploring how software, APIs, and automation can work together to solve practical problems.
-
-My interests include web development, workflow automation, integrations, and experimenting with new technologies. I learn by building projects, testing ideas, and improving them over time.
-
-- 🎓 Computer Science & Engineering student
-- ⚙️ Interested in workflow automation and AI-powered tools
-- 🔗 Exploring APIs, integrations, and backend development
-- 🧪 Learning through personal projects and hands-on experiments
-- 🌏 Based in Bangladesh
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-**Languages & Web**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,php&theme=dark" />
-
-**Automation & Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-
-**Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/based_in-Bangladesh-172554?style=flat-square&labelColor=0B1020" alt="Based in Bangladesh" />
+<img src="https://img.shields.io/badge/studying-CSE-2563EB?style=flat-square&labelColor=0B1020" alt="Studying CSE" />
+<img src="https://img.shields.io/badge/driven_by-curiosity-60A5FA?style=flat-square&labelColor=0B1020" alt="Driven by curiosity" />
+<img src="https://img.shields.io/badge/status-building-34D399?style=flat-square&labelColor=0B1020" alt="Status: building" />
 
 </div>
 
----
+<br/>
 
-## 🚀 Selected Projects
+<img src="./assets/label-about.svg" width="100%" alt="01 About" />
 
-### [BTL Daily Report Automation Manager](https://github.com/shafaith-ruhan/btl-cumilla-isp-daily-report-automation-manager)
-An n8n workflow project for organizing ISP operational reporting, Google Sheets data, and Telegram report delivery.
+I'm a Computer Science & Engineering student who can't leave an idea alone until it works.
 
-**Focus:** n8n · JavaScript · Google Sheets API · Telegram
+Nobody asked me to build most of what's here. I build because I enjoy it: apps, automations, storefronts, websites. I pick a problem, break it down, ship a first version and keep improving it. That loop is how I learn best.
 
-### [AI-Powered Facebook Messenger Support](https://github.com/shafaith-ruhan/btl-facebook-messenger-ai-support-automation)
-An AI-assisted customer-support workflow exploring message processing, media understanding, and human-agent handover.
+```yaml
+name:      Shafaith Ruhan
+studying:  Computer Science & Engineering
+from:      Bangladesh
+builds:    [web apps, dashboards, automations, websites]
+learns_by: building first, reading docs second
+languages: [Bengali, English]
+next:      a software / AI company of my own
+```
 
-**Focus:** n8n · Gemini · Groq · Webhooks · Telegram
+<details>
+<summary><b>▸ git log --oneline</b> <sub>(open)</sub></summary>
 
-### [ERAC Lifestyle](https://github.com/shafaith-ruhan/erac-lifestyle-showcase)
-A personal e-commerce and storefront project exploring product presentation, order flows, and website management.
+```text
+$ git log --oneline --reverse
+a1f3c9e  hello world
+b72d0e4  found automation, stopped repeating myself
+c9a41b8  first storefront: ERAC Lifestyle
+d03e7f2  full apps: ISP OneDesk, OLT OneDesk
+HEAD     still building, next commit loading...
+```
 
-**Focus:** HTML · CSS · JavaScript · PHP
+</details>
 
----
+<br/>
 
-## 📈 GitHub Overview
+<img src="./assets/label-projects.svg" width="100%" alt="02 Projects" />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=shafaith-ruhan&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs/?username=shafaith-ruhan&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img src="./assets/card-isp-onedesk.svg" width="49%" alt="ISP OneDesk" />
+<img src="./assets/card-olt-onedesk.svg" width="49%" alt="OLT OneDesk" />
+
+<a href="https://github.com/shafaith-ruhan/btl-cumilla-isp-daily-report-automation-manager"><img src="./assets/card-daily-report.svg" width="49%" alt="Daily Report Automation" /></a>
+<a href="https://github.com/shafaith-ruhan/btl-facebook-messenger-ai-support-automation"><img src="./assets/card-messenger-ai.svg" width="49%" alt="Messenger AI Support" /></a>
+
+<img src="./assets/card-motion-site.svg" width="49%" alt="Motion Website" />
+<a href="https://github.com/shafaith-ruhan/erac-lifestyle-showcase"><img src="./assets/card-erac.svg" width="49%" alt="ERAC Lifestyle" /></a>
+
+</div>
+
+<br/>
+
+<img src="./assets/label-stack.svg" width="100%" alt="03 Stack" />
+
+<div align="center">
+
+**Languages & Web**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,php&theme=dark" alt="Languages and web" />
+
+**Backend & Automation**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets API" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+
+**Developer Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
+
+</div>
+
+<br/>
+
+<img src="./assets/label-activity.svg" width="100%" alt="04 Activity" />
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=shafaith-ruhan&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=false&bg_color=0B1020&border_color=1E3A8A&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs/?username=shafaith-ruhan&layout=compact&hide_border=false&bg_color=0B1020&border_color=1E3A8A&title_color=60A5FA&text_color=CBD5E1" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shafaith-ruhan&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shafaith-ruhan&bg_color=0B1020&color=60A5FA&line=2563EB&point=FFFFFF&area=true&area_color=2563EB&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
----
+<br/>
 
-## 🌱 What I'm Exploring
+<img src="./assets/label-roadmap.svg" width="100%" alt="05 Roadmap" />
 
-- Improving my JavaScript and TypeScript skills
-- Building useful n8n automation workflows
-- Working with APIs and third-party integrations
-- Learning more about backend and web application development
-- Experimenting with AI-assisted applications
+| ▸ NOW | ▸ NEXT | ▸ LATER |
+|:--|:--|:--|
+| Growing **ISP OneDesk** | Deeper **TypeScript** and backend skills | More polished, production-ready apps |
+| Building **OLT OneDesk** | More **API & third-party integrations** | AI-powered products |
+| Automating more with **n8n** | Sharper **AI-assisted** workflows | A software / AI company |
 
----
+<br/>
 
-## 🤝 Let's Connect
+<img src="./assets/label-connect.svg" width="100%" alt="06 Connect" />
 
 <div align="center">
 
-<a href="mailto:shafaithruhan28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/shafaith-ruhan">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<br/>
+
+<a href="mailto:shafaithruhan28@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/shafaith-ruhan"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-*Learn continuously. Build thoughtfully. Make technology useful.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:172554,100:0B1020&height=115&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="Learn continuously. Build thoughtfully. Make technology useful." />
 
 </div>

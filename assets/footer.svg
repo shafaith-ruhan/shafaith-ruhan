@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130" role="img" aria-label="Learn continuously. Build thoughtfully. Make technology useful.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1D4ED8"/><stop offset=".5" stop-color="#172554"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="r"><rect width="1000" height="130" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1000" height="130" fill="url(#bg)"/>
+<path d="M0,98 L1000,98" stroke="#93C5FD" stroke-opacity=".35" stroke-width="2"/>
+<circle r="3.6" fill="#FFFFFF" filter="url(#glow)"><animateMotion dur="5s" repeatCount="indefinite" path="M0,98 L1000,98"/></circle>
+<text x="500" y="52" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="600" fill="#F1F5F9" letter-spacing="1.5">Learn continuously. Build thoughtfully. Make technology useful.</text>
+<text x="500" y="80" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="12" fill="#93C5FD" letter-spacing="4">— NEXT COMMIT LOADING —</text>
+</g>
+<rect x=".75" y=".75" width="998.5" height="128.5" rx="19.5" fill="none" stroke="#1E3A8A" stroke-width="1.5"/>
+</svg>

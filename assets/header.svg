@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Shafaith Ruhan — CSE student, developer, automation enthusiast">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0B1020"/><stop offset=".55" stop-color="#172554"/><stop offset="1" stop-color="#1D4ED8"/>
+</linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#93C5FD" opacity=".2"/></pattern>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="r"><rect width="1000" height="320" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1000" height="320" fill="url(#bg)"/>
+<rect width="1000" height="320" fill="url(#dots)"/>
+<circle cx="760" cy="160" r="230" fill="#2563EB" opacity=".12"/>
+
+<text x="56" y="62" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="13" fill="#93C5FD" letter-spacing="3">// SHAFAITH-RUHAN · BANGLADESH</text>
+<text x="52" y="146" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="66" font-weight="800" fill="#FFFFFF" letter-spacing="2">SHAFAITH</text>
+<text x="52" y="214" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="66" font-weight="800" fill="none" stroke="#93C5FD" stroke-width="1.6" letter-spacing="2">RUHAN</text>
+<text x="56" y="252" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="14" fill="#DBEAFE" letter-spacing="1">CSE student · developer · automation enthusiast</text>
+<circle cx="62" cy="285" r="4.5" fill="#34D399"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="76" y="289" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="12" fill="#A7F3D0" letter-spacing="2">LEARNING BY BUILDING</text>
+
+<path d="M500,160 L960,160" fill="none" stroke="#93C5FD" stroke-width="2.4" stroke-linecap="round" />
+<path d="M540,160 C575,160 585,90 620,90 L700,90 C735,90 725,160 760,160" fill="none" stroke="#60A5FA" stroke-width="2.4" stroke-linecap="round" />
+<path d="M640,160 C675,160 680,235 715,235 L825,235 C860,235 865,160 900,160" fill="none" stroke="#C4B5FD" stroke-width="2.4" stroke-linecap="round" />
+<path d="M760,160 C795,160 805,70 840,70 L940,70" fill="none" stroke="#34D399" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="3 7"/>
+<circle r="3.8" fill="#FFFFFF" filter="url(#glow)"><animateMotion dur="4.2s" begin="0s" repeatCount="indefinite" path="M500,160 L960,160"/></circle><circle r="3.8" fill="#FFFFFF" filter="url(#glow)"><animateMotion dur="3.4s" begin="0.6s" repeatCount="indefinite" path="M540,160 C575,160 585,90 620,90 L700,90 C735,90 725,160 760,160"/></circle><circle r="3.8" fill="#FFFFFF" filter="url(#glow)"><animateMotion dur="3.8s" begin="1.4s" repeatCount="indefinite" path="M640,160 C675,160 680,235 715,235 L825,235 C860,235 865,160 900,160"/></circle><circle r="3.8" fill="#FFFFFF" filter="url(#glow)"><animateMotion dur="3.0s" begin="2.0s" repeatCount="indefinite" path="M760,160 C795,160 805,70 840,70 L940,70"/></circle>
+<circle cx="540" cy="160" r="7" fill="#0B1020" stroke="#93C5FD" stroke-width="2.4"></circle><circle cx="540" cy="160" r="2.4" fill="#93C5FD"/><circle cx="640" cy="160" r="7" fill="#0B1020" stroke="#93C5FD" stroke-width="2.4"></circle><circle cx="640" cy="160" r="2.4" fill="#93C5FD"/><circle cx="760" cy="160" r="7" fill="#0B1020" stroke="#93C5FD" stroke-width="2.4"></circle><circle cx="760" cy="160" r="2.4" fill="#93C5FD"/><circle cx="900" cy="160" r="7" fill="#0B1020" stroke="#93C5FD" stroke-width="2.4"></circle><circle cx="900" cy="160" r="2.4" fill="#93C5FD"/><circle cx="620" cy="90" r="7" fill="#0B1020" stroke="#60A5FA" stroke-width="2.4"></circle><circle cx="620" cy="90" r="2.4" fill="#60A5FA"/><circle cx="700" cy="90" r="7" fill="#0B1020" stroke="#60A5FA" stroke-width="2.4"></circle><circle cx="700" cy="90" r="2.4" fill="#60A5FA"/><circle cx="715" cy="235" r="7" fill="#0B1020" stroke="#C4B5FD" stroke-width="2.4"></circle><circle cx="715" cy="235" r="2.4" fill="#C4B5FD"/><circle cx="825" cy="235" r="7" fill="#0B1020" stroke="#C4B5FD" stroke-width="2.4"></circle><circle cx="825" cy="235" r="2.4" fill="#C4B5FD"/><circle cx="840" cy="70" r="7" fill="#0B1020" stroke="#34D399" stroke-width="2.4"></circle><circle cx="840" cy="70" r="2.4" fill="#34D399"/>
+<circle cx="940" cy="70" r="7" fill="none" stroke="#34D399" stroke-width="2.2" stroke-dasharray="3 3"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+
+<text x="500" y="148" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#BFDBFE" opacity=".85" letter-spacing="1">main</text>
+<text x="660" y="76" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#93C5FD" letter-spacing="1">feat/automation</text>
+<text x="770" y="258" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#DDD6FE" letter-spacing="1">feat/apps</text>
+<text x="890" y="54" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#A7F3D0" letter-spacing="1">next</text>
+</g>
+<rect x=".75" y=".75" width="998.5" height="318.5" rx="19.5" fill="none" stroke="#1E3A8A" stroke-width="1.5"/>
+</svg>
